@@ -1,4 +1,5 @@
+
 streamlit
 requests
 python-dotenv
-
+SpeechRecognition==3.10.0
