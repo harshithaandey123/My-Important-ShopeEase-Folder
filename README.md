@@ -216,13 +216,25 @@ ShopEase Copilot directly addresses these emerging customer needs.
 
 ## Team Members
 
-### Dedeepya Andey
+### Dedeepya Andey – Associate Consultant, Infosys (4.9+ Years Experience)
 
-Associate Consultant at Infosys with 4.9+ years of experience in enterprise application development. Experienced in Java, Spring Boot, REST APIs, Kubernetes, PostgreSQL, Linux, and large-scale government platforms. Skilled in requirement analysis, application development, testing, and production support.
+Experienced Java Developer with nearly 5 years of expertise in designing, developing, and maintaining enterprise-scale applications. Currently working at Infosys on the GSTN project, contributing to requirement analysis, feature development, issue resolution, and end-to-end module ownership for taxpayer and tax officer services.
 
-### Harshitha Andey
+Previously worked at Wipro, where she developed and deployed adaptor suites for client solutions, handling requirement analysis, implementation, testing, and production support. Proficient in Java, Spring Boot, J2EE, PostgreSQL, Kubernetes, Linux, GitLab, Networking, JSON, XML, and API development.
 
-Quality Engineering Analyst with 3.5+ years of experience in software testing, automation testing, API testing, performance testing, and quality assurance. Experienced in Agile delivery, CI/CD testing workflows, release validation, and AI-assisted testing using GitHub Copilot.
+**Key Skills:** Java, Spring Boot, J2EE, PostgreSQL, Kubernetes, Linux, GitLab, REST APIs, JSON, XML, Networking, Testing, Agile Development.
+
+---
+
+### Harshitha Andey – Quality Engineering Analyst (3.5+ Years Experience)
+
+Quality Engineering professional with 3.5+ years of experience in Software Testing, Automation Testing, and Quality Assurance for enterprise applications. Skilled in Manual Testing, Selenium Automation, API Testing, Performance Testing, and Agile delivery environments.
+
+Experienced in regression, exploratory, smoke, monkey, and release validation testing, with strong expertise in CI/CD-driven testing workflows, defect management, and release coordination. Familiar with AI-assisted testing tools such as GitHub Copilot and GIDA for accelerating automation and test case generation.
+
+Recognized for ensuring release quality, improving delivery efficiency, and driving reliable software deployments.
+
+**Key Skills:** Selenium, API Testing, Performance Testing, Manual Testing, CI/CD, Defect Management, Agile Methodologies, GitHub Copilot, Test Automation, Quality Assurance.
 
 ---
 
